@@ -1,0 +1,7 @@
+{
+  "locale": "en",
+  "translations": {
+    "intorHeder": "Hello, {$INTERPOLATION}",
+    "greeting": "Congratulations! Your app is running."
+  }
+}
